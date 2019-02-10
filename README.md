@@ -1,3 +1,7 @@
+# Introducción a Angular
+
+Mi primera aplicación con Angular.
+
 # 01-hola-mundo
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.0.
